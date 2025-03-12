@@ -1,0 +1,1 @@
+i gave a guest lecture at westminster university for early CS undergrads, and decided to show how simple and powerful the foundations of gaussian splatting are, by implementing 2d GS in a tiny notebook.
